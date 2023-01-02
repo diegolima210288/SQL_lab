@@ -1,0 +1,1 @@
+Utilização de funções simples aninhadas e sub selects como colunas do select principal.
