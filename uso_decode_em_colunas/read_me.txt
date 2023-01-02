@@ -1,0 +1,1 @@
+Utilização das funções DECODE e CASE para tratamento das informações de alguns colunas do SQL.
