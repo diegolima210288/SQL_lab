@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste repositório contém códigos de consultas em banco de dados relacional, em linguagem SQL.
 
@@ -8,7 +8,7 @@ Os códigos estão separados em diretórios e cada diretório contém um readme 
 
 
 
-Explanation in English
+## Explanation in English
 
 This repository contains codes for queries in relational databases, in SQL language.
 
