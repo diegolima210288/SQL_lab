@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste diretório realizo o desenvolvimento de uma consulta com SQL.
 
@@ -6,7 +6,7 @@ E neste código faço uso de SUB-SELECT, JOIN, função de agrupamento COUNT e d
 
 
 
-Explanation in Portuguese
+## Explanation in Portuguese
 
 In this directory I develop a query with SQL.
 
